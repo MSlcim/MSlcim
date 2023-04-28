@@ -4,15 +4,7 @@
 
 ####  :wave: Welcome my github profile !
 
-<br/>
-  
-  👉&nbsp;&nbsp;[Notion](https://disco-charger-144.notion.site/Kim-Min-Su-36e755d780624ff1a709ce08fe9d859d)
-  
-  <br/>
-  
-  👉&nbsp;&nbsp;[Blog](https://velog.io/@lciminsu) 
-  
- <br/>
+
   
 ####  📖 TechStack
   
